@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WatchmanBot.App": {
+      "commandName": "Project",
+      "commandLineArgs": "-token 1752405217:AAHW_HPKAkVvYbNrTm2f9oVRkZDTHrH15Nw -admin 603983211"
+    }
+  }
+}
